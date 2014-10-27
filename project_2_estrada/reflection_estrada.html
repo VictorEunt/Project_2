@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+
+<html>
+	<head>
+		<title>Reflection Paper - Estrada</title>
+		<link href="reflection.css" rel="stylesheet" type="text/css">
+	</head>
+
+	<body>
+		<header>
+			<ul class="navbar">
+			<li class="bar"><a class="bar" href="java-table.html">Sortable Table</a></li>
+			<li class="bar"><a class="bar" href="tech-jobs.xml">Easy Read Table</a></li>
+			<li class="bar"><a class="bar" href="project_estrada.html">Project</a></li>
+			</ul>
+			
+			<h5>Project 2: XML Database and Transformations - TECM 5191 - Victor Estrada</h5>
+		</header>
+		
+		<h2>Reflection</h2>
+	
+		<p>I designed an XML database with information displayed in two tables, a readable comprehensive table of technical communicator positions, and a smaller sortable table that highlights data for positions at successful companies that interest me, and possibly other technical communicators in graduate programs. In authoring the content, I realized the tagging system in my XML database required a strategy to develop its structure, to facilitate the selection of the data for its transformation, and to function as a foundation for me to design a user-centered experience with the data.</p>		
+
+		<h2>Rhetorical Strategy in the Tagging System</h2>
+
+		<p>My strategy for the tagging system evolved after I adopted rhetorical thinking to both construct my data logically and help feature information from technical communicator positions that would interest me.  I had to think rhetorically: what details in a position creates credibility or evokes an emotional response? This thinking led to questions that most people would ask about a job: What kind of company is it? What are the perks? Where is it? What would I have to do? This approach guided me to seek positions across four regions with credible companies, to record details of the requirements and tasks of the position, and to discover information about these companies that make them desirable.</p>	
+	
+		<p>After obtaining the data, I had to logically construct it with language that is clear, concise, and expected in the process of searching for a job. I divided how I thought about the position in three categories, the position, the company, and the perks. The position includes details of the requirements of the job such as education and skills, and it includes details of the tasks of the job. The company category details the location and features of credibility, such as the company&#39;s industry and revenue. The perks include details about the culture of the workplace, the status of the company in the industry, the employee benefits, and facts about vacation and holidays. Together the three categories contained the logic, pathos, and ethos a user such as a graduate student would experience in interacting with information from a future employer.</p>	
+		
+		<h2>The Rationale in the Hierarchy</h2>
+		
+		<p>The hierarchy evolved after applying the rhetorical strategy (see Figure 1). Although, the information expanded with the rhetorical strategy, thinking with categories led to a logic in the structure of the tagging. The three categories of position, company, and perks reflect job information, so all the information in the three categories were identified in a tag named &lt;job-info&gt;, which has a parent tag that describes the database, &lt;tech-jobs&gt;. Each of the three categories contained information relating directly to their topic. For instance, because each position had several categories of requirements such as experience, education, and skills, &lt;position&gt; became a parent tag of &lt;requirements&gt;, which had child tags named &lt;experience&gt;, &lt;education&gt;, and &lt;skills&gt;; child tags such as &lt;skills&gt; is written in plural, because it contains child tags of the singular, &lt;skill&gt;. Finally, the &lt;skill&gt; start and end tags surround the content, the description of the skill: <q>collaboration.</q></p>
+		
+		<p>The three categories develop a deep structure in the job data that serves to create a comprehensive table full of information, a goal created to benefit the user, but one unique tag functions to organize the design of the sortable table. The child tags of &lt;location&gt; are &lt;region&gt;, &lt;state&gt;, and &lt;city&gt;. The cities of the companies are desirable locations that I think of being located in four distinct regions. Adding a &lt;region&gt; tag to &lt;location&gt;, a later development, allows the rest of the job-info data to be sorted by these areas, so that I could see the different companies and their positions by the Southwest, The Rockies, Southern California, or the Bay Area, a useful feature for me. See Figure 2.</p>
+		
+		<h2>XSLT</h2>
+
+		<p>In order to best understand the XSLT, I used the schedule template for our class, but first, I simplified it so that I could piece it back together, using only what I needed to select the data and design information for the user. The initial and a crucial step in the transformation is to use the match attribute with the xsl:template element in order to coordinate the XSL file with the XML file, the template with the data that fills it. Also included as a top-level element is the decimal-format, that allows the format-number() to function with numerical content. I used it to format the revenue for each company (See Figure 3).</p>
+		
+		<p>After an &lt;html&gt; start tag, in the &lt;head&gt; of the XSL sheet a node declares a link to a CSS file; in the &lt;body&gt;, the &lt;header&gt; features a navigation bar. Next, a table begins with the headings: The Position, The Company, and The Perks. In the table rows, XSL elements and attributes select and display data using tag names of the xml data. Because each of the three categories of information that display belong to the parent tag named &lt;job-info&gt;, I use the <i>for-each</i> element with the <i>select</i> attribute to declare that the data from the <q>job-info</q> child tags is ready to be selected. The next node has a &lt;xsl:sort&gt; element that alphabetizes the value of the first child tag selected from the parent tag of &lt;company&gt;, which is <q>name</q>. Having the table pre-sorted by company name gives the best bearing of organization in using the comprehensive table, because the titles of the positions in the technical communicator field vary too greatly to seem organized when they are alphabetized.</p>
+		
+		<p>The tagging of the XML, the names chosen and the hierarchy both become valuable in allowing for an efficient selection of data in the XSL template. In the XSL, the <i>for-each</i> element declares a parent tag and the <i>value-of</i> element selects a child tag that contains content to display. So depending on how well the parent tags logically and semantically fit with their child tags, the XSL can become more readable and faster to construct. The more organized the XSL, the more organized the content will be for the user. Figure 4 shows the relationship between the <i>for-each</i> and <i>value-of</i> elements.</p>
+		
+		<p>In order to construct an XSL template that would benefit the user, I constructed the categories of The Position and The Perks to include lists of subcategories. As the table grew with lists, headings and positioning of the information became important to the readability of the table. For instance, in The Perks category, it became more readable and organized to divide the perks into the categories of Culture and Benefits. XSL makes this easy, being able to pull different bits of data and if necessary, labeling it in different and useful ways, which all is facilitated by how well the content is tagged.</p>
+		
+		<h2>Java</h2>
+
+		<p>Similar to how an xsl template has to match an xml file, a Java script opens an xml file for use, but in three lines. Also, similar to how the <i>for-each</i> and <i>value-of</i> elements work together to pull all the content with a specific tag name, Java uses the <i>getElementsByTagName</i> feature to pull content. The <i>var</i> declaration (variable) and <i>for</i> declaration tells the script to loop through the <i>getElementsByTagName</i> declarations until all the elements are selected. In Java, with the <i>document.write</i> declaration, you can tell exactly what text to use and how to use the text with standard HTML tags. The rest of the page is written as if using standard HTML. In the &lt;head&gt; tag is a link to a CSS sheet and a Java script that when attached to the table by class (&lt;table class=<q>sortable</q>&gt;), allows the headings to be clicked for sorting. The script is from <a href="http://www.kryogenix.org/code/browser/sorttable/sorttable.js">kyrogenix.org</a>.  The script works by finding out if the data is text, and if so, it converts the text to an ACSII string that can be ordered. It orders the string values, and then replaces those values with the proper text.</p>
+		
+		<h2>Conclusion</h2>
+
+		<p>The experience of planning, creating, and organizing my own output to be used in multiple formats, allowed me to think through how to adopt a strategy in developing a database structure, to facilitate transformation, and design a user-centered experience with the information. Because of the labor-intensive taks, the idea of managing content does not seem abstract. It seems more like the type of knowledge work a technical communicator can do well because of their inherent rhetorical skills and problem-solving aptitude.</p>
+
+		<!--Images and descriptions, Figures 1 through 4-->				
+		<img class="first" src="images/first_hierarchy.jpg" alt="first hierarchy">
+		
+		<img class="second" src="images/second_hierarchy.jpg/" alt="second hierarchy">
+
+		<div class="first">Figure 1: The top image shows data before it evolved in structure, as exhibited in the piece of the final structure shown in the bottom image. The &lt;title&gt; tag became a child tag of &lt;position&gt;, a category that developed after the rhetorical strategy.</div>
+		
+		<img class="fig2" src="images/location.jpg/" alt="location example">
+		
+		<div class="fig2">Figure 2: The &lt;region&gt; tag allows for the cities to be organized by region in the sortable table.</div>
+
+		<img class="decimal_1" src="images/decimal_element.jpg/" alt="decimal example">
+	
+		<img class="decimal_2" src="images/decimal_function.jpg/" alt="decimal example">
+
+		<div class="decimal">Figure 3: The top image is the decimal-format element which appears in line 3, it declares my name for the format, <q>usa</q> and what text <q>Non-profit</q> should replace a value which is not a number. The function is applied within the database, between the start and end tags of the parent tag &lt;company&gt;. The <i>value-of</i> element uses the attribute <i>select</i> to use the format-number function to pull the revenue content, using the currency sequence I defined.</div>
+
+		<img class="fig4" src="images/figure_4.jpg/" alt="figure four">
+
+		<div class="fig4">Figure 4: The first tag &lt;tr&gt; begins a table row. The XSL element <i>for-each</i> declares that the content selected will be from a child tag of the parent tag named <q>position</q>. The &lt;td&gt; tag encloses table content. The XSL element <i>value-of</i> will select all the content tagged in the XML file with &lt;title&gt;.</div>  
+		
+		<footer>
+			<h5>Project 2: XML Database and Transformations - TECM 5191 - Victor Estrada</h5>
+			
+			<ul class="navbar">
+				<li class="bar"><a class="bar" href="java-table.html">Sortable Table</a></li>
+				<li class="bar"><a class="bar" href="tech-jobs.xml">Easy Read Table</a></li>
+				<li class="bar"><a class="bar" href="project_estrada.html">Project</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>

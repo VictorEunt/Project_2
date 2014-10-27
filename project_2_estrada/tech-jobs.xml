@@ -1,0 +1,1019 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="tech-jobs.xsl"?>
+
+<tech-jobs>
+<!-- Database of Current Jobs for Technical Communicators -->
+		<job-info>
+			<position>
+				<title>Course Writer</title>
+				<requirements>
+					<experience>3 to 5</experience>
+					<education>Bachelor's</education>
+					<skills>
+						<skill>Information Design</skill>
+						<skill>Collaboration</skill>
+					</skills>
+					<tools>
+						<tool>Dreamweaver</tool>
+					</tools>
+					<tasks>
+						<task>Design Online Courses</task>
+						<task>Develop Procedures for Instructors</task>
+						<task>Train Instructors</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Academy of Art University</name>
+				<industry>Education</industry>
+				<founded>1929</founded>
+				<emp-size>1001-5000</emp-size>
+				<location>
+					<region>Bay Area</region>
+					<state>California</state>
+					<city>San Francisco</city>
+				</location>
+				<revenue>247000000</revenue>
+				<career-link>
+					<description>AAU Careers</description>
+					<url> https://www4.recruitingcenter.net/Clients/academyart/PublicJobs/Canviewjobs.cfm?
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Health Insurance</benefit>
+					<benefit>401K</benefit> 
+					<benefit>Paid vacation and holidays</benefit>
+				</benefits>
+				<fun-facts>
+					<fact>Profit-based university</fact>
+					<fact>Commuter program</fact>
+					<fact>Offered online classes since 2002</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+
+		<job-info>
+			<position>
+				<title>Information Architect</title>
+				<requirements>
+					<experience>Have worked in a Software Development Environment</experience>
+					<education>Bachelor's</education>
+					<skills>
+						<skill>IA Mapping</skill>
+						<skill>Knowledge of cross-platform compatiblity</skill>
+						<skill>UI design</skill>
+					</skills>
+					<tools>
+						<tool>MS Visio</tool>
+						<tool>Omnigraffe</tool>
+						<tool>Axure</tool>
+					</tools>
+					<tasks>
+						<task>Develop user interaction model, site maps, work-flows, prototypes, and interface guidelines</task>
+						<task>Conduct usability research and translate the findings into design improvements</task>
+						<task>Collaborate closely with product, engineering and design teams to implement and ensure the development of a consistent and effective user experience</task>
+						<task>Conduct user and design research including: usability studies, user surveys, prototype testing, competitive product analysis, and latest industry and design trend research.</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Fuhu</name>
+				<industry>Consumer Products and Services</industry>
+				<founded>2008</founded>
+				<emp-size>342</emp-size>
+				<location>
+					<region>SoCal</region>
+					<state>California</state>
+					<city>El Segundo</city>
+				</location>
+				<revenue>195600000</revenue>
+				<career-link>
+					<description>Fuhu Careers</description>
+					<url>
+					http://fuhu.mytribehr.com/careers
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Unknown</benefit>
+				</benefits>
+				<fun-facts>
+					<fact>#1 Fastest Growing Private Company</fact>
+					<fact>Creator of Nabi Tablet</fact>
+					<fact>Dynamic, young, creative, and high-growth environment</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+	
+		<job-info>
+			<position>
+				<title>Front End Consultant</title>
+				<requirements>
+					<experience>3 to 5 years</experience>
+					<education>Bachelor's</education>
+					<skills>
+						<skill>Basic scripting skills</skill>
+						<skill>Graphic and Information design</skill>
+						<skill>HTML5, CSS3, and SASS</skill>
+						<skill>Knowledge of variety of languages</skill>
+					</skills>
+					<tools>
+						<tool>Adobe Create Suite</tool>
+					</tools>
+					<tasks>
+						<task>Consult with clients to develop their learning goals</task>
+						<task>Advise clients of digital design best practices</task>
+						<task>Implement designs using extensible HTML and CSS/SASS</task>
+						<task>Partner with editorial teams to ensure quality and accuracy of styled content</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Inkling</name>
+				<industry>Software</industry>
+				<founded>2009</founded>
+				<emp-size>51-200</emp-size>
+				<location>
+					<region>Bay Area</region>
+					<state>California</state>
+					<city>San Francisco</city>
+				</location>
+				<revenue>8100000</revenue>
+				<career-link>
+					<description>Inkling Careers</description>
+					<url>https://www.inkling.com/careers/
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Uncapped vacation time</benefit>
+					<benefit>Full healthcare</benefit> 
+					<benefit>Catered lunches and dinners</benefit>
+					<benefit>New laptop and iPad</benefit>					
+				</benefits>
+				<fun-facts>
+					<fact>Publishing platform</fact>
+					<fact>Small team of creative problem solvers</fact>
+					<fact>Agile work environment</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+
+		<job-info>
+			<position>
+				<title>Content Writer</title>
+				<requirements>
+					<experience>5 years</experience>
+					<education>Bachelor's</education>
+					<skills>
+						<skill>Technical writing</skill>
+						<skill>Working knowledge of digital technologies</skill>
+					</skills>
+					<tools>
+						<tool>Unknown</tool>
+					</tools>
+					<tasks>
+						<task>Participate in the strategy, development, execution and management of the company’s comprehensive product messaging and positioning</task>
+						<task>Participate in the strategy, development, execution and management of the company’s comprehensive product messaging and positioning</task>
+						<task>Participate in a practice for digital test-and-learn programs to maximize Tealium’s resources that lead to scalable digital programs while continuously improving the consumer experience and adding positive sales ROI.</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Tealium</name>
+				<industry>Software</industry>
+				<founded>2008</founded>
+				<emp-size>150</emp-size>
+				<location>
+					<region>SoCal</region>
+						<state>California</state>
+							<city>San Diego</city>
+				</location>
+				<revenue>12500000</revenue>
+			<career-link>
+				<description>Tealium Careers</description>
+				<url>https://careers-tealium.icims.com/jobs/search?ss=1
+				</url>
+			</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Stock options and benefits package</benefit>
+					<benefit>Beautiful Torrey Pines office</benefit> 
+					<benefit>An all-Apple, cloud-based environment</benefit>
+				</benefits>
+				<fun-facts>
+					<fact>Helps brands integrate siloed applications and data</fact>
+					<fact>&#35;57 America's most promising companies</fact>
+					<fact>Named one of the coolest companies in San Diego</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+	
+		<job-info>
+			<position>
+				<title>Copywriter</title>
+				<requirements>
+					<experience>5 years</experience>
+					<education>Bachelor's</education>
+					<skills>
+						<skill>Ability to understand technical content and quickly learn new material</skill>
+						<skill>Solid understanding of consumers’ interaction with various media, and strength in adjusting language based on medium</skill>
+					</skills>
+					<tools>
+						<tool>Unknown</tool>
+					</tools>
+					<tasks>
+						<task>Write engaging and persuasive headlines, product descriptions and collateral for all consumer communications</task>
+						<task>Communicate complex technical data in a clear and compelling manner to our target audiences</task>
+						<task>Develop product documentation, including user manuals, training materials and packaging</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>GoPro</name>
+				<industry>Consumer Products and Services</industry>
+				<founded>2003</founded>
+				<emp-size>201-500</emp-size>
+				<location>
+					<region>Bay Area</region>
+					<state>California</state>
+					<city>San Mateo</city>
+				</location>
+				<revenue>985700000</revenue>
+				<career-link>
+					<description>GoPro Careers</description>
+					<url>http://gopro.com/careers/
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Complete health package</benefit>
+					<benefit>Stock options and 401K</benefit> 
+					<benefit>Vacation and paid holidays</benefit>
+				</benefits>
+				<fun-facts>
+					<fact>Fast growing company with a passionate team</fact>
+					<fact>Gym Memberships</fact>
+					<fact>Cool Social Events</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+		
+		<job-info>
+			<position>
+				<title>Front End Web Designer</title>
+				<requirements>
+					<experience>Entry-level</experience>
+					<education>Bachelor's</education>
+					<skills>
+						<skill>Proficiency in XHTML and CSS-Proficiency with Mobile friendliness</skill>
+						<skill>Proficiency with jQuery and jQueryUI</skill>
+						<skill>Familiar with cross-platform and cross-browser issues</skill>
+					</skills>
+					<tools>
+						<tool>Unknown</tool>
+					</tools>
+					<tasks>
+						<task>responsible for creating new customer websites based on existing designs and also for creating new pluggable layouts</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Dealer Spike</name>
+				<industry>Advertising and Marketing</industry>
+				<founded>2008</founded>
+				<emp-size>51-200</emp-size>
+				<location>
+					<region>Northwest</region>
+					<state>Oregon</state>
+					<city>Lake Oswego</city>
+				</location>
+				<revenue>3700000</revenue>
+				<career-link>
+					<description>Dealer Spike Careers</description>
+					<url>http://www.dealerspike.com/join-the-fastest-growing-company-in-the-industry--careers
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Competitive Pay</benefit>
+					<benefit>Complete benefits package</benefit> 
+				</benefits>
+				<fun-facts>
+					<fact>10th fastest growing company in Portland</fact>
+					<fact>World-wide digital advertising company</fact>
+					<fact>Beer Fridays!</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+	
+		<job-info>
+			<position>
+				<title>Technical Writer</title>
+				<requirements>
+					<experience>2-4 years</experience>
+					<education>Bachelor's degree or higher</education>
+					<skills>
+						<skill>Ability to learn complex, highly abstract technology; ability to directly verify technical information</skill>
+						<skill>Ability to describe products, functions, and features with clear and useful language, using industry-standard terminology whenever possible and creating elegant and helpful, descriptive language whenever standards don’t suffice</skill>
+						<skill>Experience with web authoring tools and technologies such as Markdown, HTML, CSS, and/or JavaScript</skill>
+					</skills>
+					<tools>
+						<tool>Git, SVN, CVS, or Perforce</tool>
+					</tools>
+					<tasks>
+						<task>Harvest information about user workflows and software functionality to create and maintain a wide variety of technical documentation</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Puppet Labs</name>
+				<industry>Software</industry>
+				<founded>2005</founded>
+				<emp-size>300</emp-size>
+				<location>
+					<region>Northwest</region>
+					<state>Oregon</state>
+					<city>Portland</city>
+				</location>
+				<revenue>16400000</revenue>
+				<career-link>
+					<description>Puppet Labs Careers</description>
+					<url>http://puppetlabs.com/about/careers
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Excellent health package</benefit>
+					<benefit>Flexible time-off policy</benefit> 
+					<benefit>Huge potential for growth</benefit>
+				</benefits>
+				<fun-facts>
+					<fact>Inc.'s Fastest Growing Private Companies</fact>
+					<fact>Powers Twitter and Google</fact>
+					<fact>Creates IT automation software for systems administrators</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+
+		<job-info>
+			<position>
+				<title>Technical Product Marketing Manager</title>
+				<requirements>
+					<experience>1-2 years</experience>
+					<education>Bachelor's</education>
+					<skills>
+						<skill>Proven track record leading technical training exercises and supporting product launches</skill>
+						<skill>Experience presenting to customers and the ability to solicit and synthesize input from customers and peers</skill>
+					</skills>
+					<tools>
+						<tool>Unknown</tool>
+					</tools>
+					<tasks>
+						<task>Develop a content strategy for organizing live product demos, integration demos and related materials</task>
+						<task>Works with technology and alliance partners to create joint collateral and go to market plans</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Janrain</name>
+				<industry>Software</industry>
+				<founded>2005</founded>
+				<emp-size>51-200</emp-size>
+				<location>
+					<region>Northwest</region>
+					<state>Oregon</state>
+					<city>Portland</city>
+				</location>
+				<revenue>10000000</revenue>
+				<career-link>
+					<description>Janrain Careers</description>
+					<url>http://janrain.com/about/careers/
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Generous benefit package</benefit>
+					<benefit>Stock options</benefit> 
+				</benefits>
+				<fun-facts>
+					<fact>Inc. 5000 #723</fact>
+					<fact>2014 Coolest Company</fact>
+					<fact>Bike Storage, showers, and stocked kitchens</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+	
+		<job-info>
+			<position>
+				<title>Technical Writer</title>
+				<requirements>
+					<experience>3-5 years</experience>
+					<education>Unknown</education>
+					<skills>
+						<skill>Excellent written skills in English</skill>
+						<skill>Software documentation</skill>
+					</skills>
+					<tools>
+						<tool>Microsoft Office</tool>
+						<tool>Adobe Acrobat Professional</tool>
+					</tools>
+					<tasks>
+						<task>Write functional description of existing and new product features</task>
+						<task>Review existing content and improve its vocabulary</task>
+						<task>Create user documentation for a variety of material, including how-to guides and instruction manuals</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Skava</name>
+				<industry>Software</industry>
+				<founded>2002</founded>
+				<emp-size>201-500</emp-size>
+				<location>
+					<region>Bay Area</region>
+					<state>California</state>
+					<city>San Francisco</city>
+				</location>
+				<revenue>22900000</revenue>
+				<career-link>
+					<description>Skava Careers</description>
+					<url>http://www.skava.com/careers/
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Competitive packages</benefit>
+				</benefits>
+				<fun-facts>
+					<fact>Create mobile solutions for retailers</fact>
+					<fact>Pioneer in app development</fact>
+					<fact>Nominated for multiple prestigious awards including the Webbys and Meffys</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+
+		<job-info>
+			<position>
+				<title>Technical Writer</title>
+				<requirements>
+					<experience>Several years of technical writing experience</experience>
+					<education>BA in English</education>
+					<skills>
+						<skill>Eager to learn new technologies</skill>
+						<skill>Strong writing skills, solid command of English grammar and punctuation, and an ability to adapt to our writing styles</skill>
+					</skills>
+					<tools>
+						<tool>Adobe FrameMaker</tool>
+						<tool>MadCap Flare</tool>
+						<tool>Microsoft Word</tool>
+						<tool>Adobe InDesign</tool>
+						<tool>Adobe Illustrator</tool>
+					</tools>
+					<tasks>
+						<task>Create new content and update existing content in configuration guides, online context-sensitive Help systems, CLI Help, error messages, release notes, and QuickStarts, all created for customer consumption</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Aerohive Networks</name>
+				<industry>Software</industry>
+				<founded>2006</founded>
+				<emp-size>501-1000</emp-size>
+				<location>
+					<region>Bay Area</region>
+					<state>California</state>
+					<city>Sunnyvale</city>
+				</location>
+				<revenue>107000000</revenue>
+				<career-link>
+					<description>Aerohive Careers</description>
+					<url>https://careers-aerohive.icims.com/jobs/search?ss=1
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Medical plans</benefit>
+					<benefit>Stock options</benefit> 
+					<benefit>Unlimited vacation</benefit>
+				</benefits>
+				<fun-facts>
+					<fact>Wi-fi and Cloud solutions</fact>
+					<fact>Fourth fastest growing Communications and Networking company in the Deloitte Technology Fast 500 awards</fact>
+					<fact>Flexible work hours</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+	
+		<job-info>
+			<position>
+				<title>UX Designer</title>
+				<requirements>
+					<experience>Experience UX designer with strong sense of visual design</experience>
+					<education>Bachelor's</education>
+					<skills>
+						<skill>Visual and interaction design</skill>
+						<skill>User-testing and research</skill>
+						<skill>SaaS solutions</skill>
+						<skill>Collaborator and leader</skill>
+						<skill>Great sense of humor</skill>
+					</skills>
+					<tools>
+						<tool>HTML and CSS tools</tool>
+					</tools>
+					<tasks>
+						<task>Help establish best UX practices 12 Months: Implement best-in-class methodologies for user-testing Dive deep into our user-base and produce best UX practices based on your findings </task>
+						<task>Incorporate qualitative and quantitative data from user research, analytics, and business analysis to drive demonstrable improvements to design solutions and strategy</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Kareo</name>
+				<industry>Software</industry>
+				<founded>2004</founded>
+				<emp-size>284</emp-size>
+				<location>
+					<region>SoCal</region>
+					<state>California</state>
+					<city>Irvine</city>
+				</location>
+				<revenue>30000000</revenue>
+				<career-link>
+					<description>Kareo Careers</description>
+					<url>http://www.kareo.com/about/join-the-team
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Complete health benefits</benefit>
+					<benefit>401K</benefit> 
+					<benefit>Paid time off</benefit>
+				</benefits>
+				<fun-facts>
+					<fact>Leader in Healthcare IT</fact>
+					<fact>#65 America's Most Promising Companies</fact>
+					<fact>Productively chill workspaces</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+
+		<job-info>
+			<position>
+				<title>Technical Writer</title>
+				<requirements>
+					<experience>Demonstrated ability to have completed multiple, moderately complex technical tasks</experience>
+					<education>A Bachelor of Science or Arts Degree in Technical Writing, English, Computer Science or Engineering is required.</education>
+					<skills>
+						<skill>Ability to work collaboratively within a team environment of writers, editors and engineers to support deadlines.</skill>
+						<skill>Excellent oral and written communication skills</skill>
+					</skills>
+					<tools>
+						<tool>Unknown</tool>
+					</tools>
+					<tasks>
+						<task>Write material for user manuals, on-line documents and other per project plan.</task>
+						<task>You will work cross-functionally with other professionals in the Engineering, Field Support, Sales, and Marketing groups, as well as NetAppp customers who use NetApp products and services.</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>NetApp</name>
+				<industry>Software</industry>
+				<founded>1992</founded>
+				<emp-size>13,060</emp-size>
+				<location>
+					<region>Bay Area</region>
+					<state>California</state>
+					<city>Sunnyvale</city>
+				</location>
+				<revenue>6332000000</revenue>
+				<career-link>
+					<description>NetApp Careers</description>
+					<url>http://www.netapp.com/us/careers/find-job/
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Comprehensive medical, dental, and vision plans</benefit>
+					<benefit>FSAs</benefit> 
+					<benefit>Employee Stock Purchase</benefit>
+				</benefits>
+				<fun-facts>
+					<fact>Offers planning and training for career growth</fact>
+					<fact>#3 Best places to work in the world</fact>
+					<fact>#51 Innovative Companies</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+	
+		<job-info>
+			<position>
+				<title>Content Manager</title>
+				<requirements>
+					<experience>CM background</experience>
+					<education>Bachelor's</education>
+					<skills>
+						<skill>Innovative</skill>
+						<skill>Fast paced</skill>
+						<skill>Problem-solver</skill>
+					</skills>
+					<tools>
+						<tool>Unknown</tool>
+					</tools>
+					<tasks>
+						<task>Facilitate marketing services such as website design</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Madwire Media</name>
+				<industry>Advertising and Marketing</industry>
+				<founded>2009</founded>
+				<emp-size>147</emp-size>
+				<location>
+					<region>Rockies</region>
+					<state>Colorado</state>
+					<city>Loveland</city>
+				</location>
+				<revenue>13300000</revenue>
+				<career-link>
+					<description>Madwire Careers</description>
+					<url>http://www.madwire.com/apply/
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Competitive compensation and benefits</benefit>
+					<benefit>401K</benefit> 
+				</benefits>
+				<fun-facts>
+					<fact>#8 Top Colorado Company</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+		
+		<job-info>
+			<position>
+				<title>Content Writer Internship</title>
+				<requirements>
+					<experience>0-2 years</experience>
+					<education>Bachelor's</education>
+					<skills>
+						<skill>Familiarity with education technology, games (digital and/or non-digital), and educational trends</skill>
+						<skill>Critical thinker and insightful evaluator</skill>
+					</skills>
+					<tools>
+						<tool>Unknown</tool>
+					</tools>
+					<tasks>
+						<task>As a part of the curriculum development and web content team, you will act as critical thinker and insightful evaluator, master documenter, and content expert in deep collaboration with a team composed of researchers, subject matter experts, web developers, artists, writers, and educators </task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Gamedesk</name>
+				<industry>Education Technology</industry>
+				<founded>2009</founded>
+				<emp-size>50</emp-size>
+				<location>
+					<region>SoCal</region>
+					<state>California</state>
+					<city>Los Angeles</city>
+				</location>
+				<revenue>Non-profit</revenue>
+			<career-link>
+				<description>Gamedesk Careers</description>
+				<url>http://gamedesk.org/join-us/
+				</url>
+			</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>You will get a diverse perspective on start-up culture and business development and strategy in an invigorating and colorful environment like no other</benefit>
+				</benefits>
+				<fun-facts>
+					<fact>Top 10 Most Innovative Companies in Education</fact>
+					<fact>GameDesk aims to catalyze a major shift in the way society thinks about education and inspires everyone to become part of the movement to make serious learning fun</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+	
+		<job-info>
+			<position>
+				<title>Technical Writer</title>
+				<requirements>
+					<experience>3 years</experience>
+					<education>Bachelor's</education>
+					<skills>
+						<skill>Software documentation</skill>
+					</skills>
+					<tools>
+						<tool>FrameMaker</tool>
+					</tools>
+					<tasks>
+						<task>Build the documentation set for Arista's products</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Arista Networks</name>
+				<industry>Software</industry>
+				<founded>2004</founded>
+				<emp-size>850</emp-size>
+				<location>
+					<region>SoCal</region>
+					<state>California</state>
+					<city>Santa Clara</city>
+				</location>
+				<revenue>361200000</revenue>
+				<career-link>
+					<description>Arista Careers</description>
+					<url>http://www.arista.com/en/careers/
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Medical, dental, and vision plan coverage</benefit>
+					<benefit>PTO and paid holidays</benefit> 
+					<benefit>Flex spending accounts</benefit>
+				</benefits>
+				<fun-facts>
+					<fact>Leading supplier of cloud networking solutions</fact>
+					<fact>On-site cafeteria</fact>
+					<fact>Secured bike lockers</fact>
+					<fact>Company picnics, community fundraisers, and Friday socials</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+
+		<job-info>
+			<position>
+				<title>Social Media Community Manager</title>
+				<requirements>
+					<experience>1-3 years</experience>
+					<education>Bachelor’s</education>
+					<skills>
+						<skill>Outstanding communication skills and excellent writing ability</skill>
+						<skill>A familiarity with and interest in online communication channels like social media, customer review websites, email marketing, and others</skill>
+					</skills>
+					<tools>
+						<tool>Social Media</tool>
+					</tools>
+					<tasks>
+						<task>Collaborate with intelligent, inspiring colleagues</task>
+						<task>Write content for a dedicated portfolio of clients</task>
+						<task>Any other responsibilities as may arise in the context of a fast-moving startup</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>MainStreetHub</name>
+				<industry>Advertising and Marketing</industry>
+				<founded>2010</founded>
+				<emp-size>175</emp-size>
+				<location>
+					<region>Southwest</region>
+					<state>Texas</state>
+					<city>Austin</city>
+				</location>
+				<revenue>9200000</revenue>
+				<career-link>
+					<description>MSH Careers</description>
+					<url>http://www.mainstreethub.com/careers/
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Competitive compensation package</benefit>
+					<benefit>Excellent health benefits</benefit> 
+					<benefit>Three weeks PTO + holidays</benefit>
+				</benefits>
+				<fun-facts>
+					<fact>#2 Austin company, INC.</fact>
+					<fact>CRM for local businesses that integrate social media, Web, mobile, and e-mail marketing</fact>
+					<fact>Fun, casual, urban office environment</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+	
+		<job-info>
+			<position>
+				<title>UX/UI Design Intern</title>
+				<requirements>
+					<experience>Consistent track record for delivering commitments on time, with minimal supervision</experience>
+					<education>Bachelor’s Degree in Design or related field</education>
+					<skills>
+						<skill>Obsessed with mobile and web applications</skill>
+						<skill>Experience designing for mobile devices</skill>
+						<skill>Ability to measure pixels by eye</skill>
+					</skills>
+					<tools>
+						<tool>Adboe CS6</tool>
+						<tool>Photoshop</tool>
+						<tool>Illustrator</tool>
+						<tool>Omnigraffle</tool>
+					</tools>
+					<tasks>
+						<task>Assist in designing beautiful mobile experiences on all major mobile platforms </task>
+						<task>Construct and drive product-wide style guides</task>
+						<task>Assist making decisions on features and functionality</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Phunware</name>
+				<industry>Software</industry>
+				<founded>2009</founded>
+				<emp-size>131</emp-size>
+				<location>
+					<region>Southwest</region>
+					<state>Texas</state>
+					<city>Austin</city>
+				</location>
+				<revenue>22100000</revenue>
+				<career-link>
+					<description>Phunware Careers</description>
+					<url>http://www.phunware.com/company/careers/current-openings/
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Unknown for internship</benefit>
+				</benefits>
+				<fun-facts>
+					<fact>#7 Top Software Companies</fact>					
+					<fact>Develops applications that allow clients to engage, manage and monetize users on mobile devices</fact>
+					<fact>#9 Top Texas Companies</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+
+		<job-info>
+			<position>
+				<title>Front-end developer</title>
+				<requirements>
+					<experience>2+ years of experience developing custom solutions using modern front-end development techniques</experience>
+					<education></education>
+					<skills>
+						<skill>Self-starter with strong self-management, time and organizational skills</skill>
+						<skill>Proficiency with off-the-shelf CMS platforms such as WordPress, Joomla and Drupa</skill>
+						<skill>Proven ability to create functional experiences with compelling and clean front ends</skill>
+					</skills>
+					<tools>
+						<tool>HTML5</tool>
+						<tool>CSS3</tool>
+						<tool>JavaScript</tool>
+						<tool>Git</tool>
+					</tools>
+					<tasks>
+						<task>Determine appropriate architecture and other technical solutions, and make relevant recommendations to clients</task>
+						<task>Collaborate with creative, project management and development team to develop a neat and clean front-end user interface</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Sq1</name>
+				<industry>Advertising and Marketing</industry>
+				<founded>2009</founded>
+				<emp-size>140</emp-size>
+				<location>
+					<region>Southwest</region>
+					<state>Texas</state>
+					<city>Dallas</city>
+				</location>
+				<revenue>11100000</revenue>
+				<career-link>
+					<description>Sq1 Careers</description>
+					<url>http://sq1.com/careers
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Complete package of benefits</benefit>
+					<benefit>Flexible Spending Accounts</benefit> 
+					<benefit>13 Paid holidays a year</benefit>
+				</benefits>
+				<fun-facts>
+					<fact>549% 3-year revenue growth</fact>
+					<fact>A digital marketing company that offers advertising technology, marketing services, and advanced analytics.</fact>
+					<fact>549% 3-year revenue growth</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+	
+		<job-info>
+			<position>
+				<title>Enterprise Content Management Consultant</title>
+				<requirements>
+					<experience>Content management</experience>
+					<education>Bachelor's</education>
+					<skills>
+						<skill>Strong planner and leader</skill>
+						<skill>Problem solver</skill>
+						<skill>Strong interpersonal, organizational and multi-tasking skills </skill>
+					</skills>
+					<tools>
+						<tool>Visual Studio</tool>
+					</tools>
+					<tasks>
+						<task>Document management</task>
+						<task>Web content management</task>
+						<task>Imaging workflow</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Gimmal</name>
+				<industry>IT Services</industry>
+				<founded>2002</founded>
+				<emp-size>136</emp-size>
+				<location>
+					<region>Southwest</region>
+					<state>Texas</state>
+					<city>Houston</city>
+				</location>
+				<revenue>25100000</revenue>
+				<career-link>
+					<description>Gimmal Careers</description>
+					<url>http://www.gimmal.com/AboutUs/Pages/Careers.aspx
+					</url>
+				</career-link>
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Competitive base pay and benefits</benefit>
+					<benefit>Incentive compensation plan based on company and individual performance</benefit> 
+				</benefits>
+				<fun-facts>
+					<fact>Emphasis on career growth</fact>
+					<fact>Provides information and records management services as well as software development that extends enterprise Microsoft and SAP platforms for customized governance, compliance and business applications</fact>
+				</fun-facts>
+			</perks>
+		</job-info>
+
+		<job-info>
+			<position>
+				<title>Social Media Manager</title>
+				<requirements>
+					<experience>1-3 years</experience>
+					<education>Bachelor’s</education>
+					<skills>
+						<skill>Excellent writing skills including grammar, punctuation and creativity</skill>
+						<skill>Experience with online monitoring and measurement platforms including but not limited to Facebook Insights, YouTube Insights, Google Analytics, and TweetDeck</skill>
+					</skills>
+					<tools>
+						<tool>Some HTML and SEO</tool>
+					</tools>
+					<tasks>
+						<task>Track, analyze and report on the effectiveness and impact of social media efforts</task>
+						<task>Write effectively and consistently in various voices as brand characters</task>
+					</tasks>
+				</requirements>
+			</position>
+			<company>
+				<name>Prodege</name>
+				<industry>Advertising and Marketing</industry>
+				<founded>2006</founded>
+				<emp-size>110</emp-size>
+				<location>
+					<region>SoCal</region>
+					<state>California</state>
+					<city>El Segundo</city>
+				</location>
+				<revenue>52900000</revenue>
+				<career-link>
+					<description>Prodege Careers</description>
+					<url>http://www.prodege.com/careers.html
+					</url>
+				</career-link> 
+			</company>
+			<perks>
+				<benefits>
+					<benefit>Comprehensive health package</benefit>
+					<benefit>401K</benefit> 
+				</benefits>
+				<fun-facts>
+					<fact>#21 Best place to work</fact>
+					<fact>Delivers monthly more than 1 Billion engagement impressions to their brand partners</fact>
+				</fun-facts>
+			</perks>
+		</job-info>		
+</tech-jobs>

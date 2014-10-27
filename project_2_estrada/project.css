@@ -1,0 +1,238 @@
+#container {
+	max-width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+body {
+	background-color: rgb(228,232,241);
+}
+
+p {
+	font-size:16px;
+	color: rgb(38,74,28); 
+	font-family: Georgia, serif;
+	width: 600px;
+	margin-left: 125px;
+	margin-right: 25%;
+	margin-bottom: 200px;
+	line-height: 200%;
+	text-align: justify;
+	
+}
+
+header h5 {
+	font-family: 'Bitter', serif;
+	text-align: left;
+	color:rgb(36,95,12);
+
+}
+
+h2 {
+	color: rgb(38,74,28); 
+	font-family: Georgia, serif;
+	margin-left: 100px;
+	margin-top: 100px;
+
+}
+
+h3 {
+	background:rgb(139,226,141);
+	color: rgb(38,74,28); 
+	font-size: 22px;
+	font-weight: normal;
+	font-family: 'Bitter', serif;
+	width: 90%;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top:10px;
+	padding-bottom: 10px;
+
+}
+
+footer {
+	padding-top: 5%;
+}
+
+footer h5 {
+	font-family: 'Bitter', serif;
+	text-align: right;
+	color: rgb(38,74,28); 
+
+}
+
+/* Styles navigation bar */
+ul.navbar {
+    list-style-type: none;
+	display: inline;
+	padding-top: 1px;
+	padding-bottom: 5px;
+	padding-right: 1px;
+	padding-left: 1px;
+}
+
+li.bar {
+    float: right;
+	text-transform: uppercase;
+	text-align: center;
+
+}
+
+a.bar {
+    display: block;
+    width: 200px;
+	padding-bottom: 5px;
+}
+
+/* Table style */
+table { 
+		width: 100%;
+		border-collapse: collapse; 
+		font-family: 'Open Sans', sans serif;
+        background: rgb(220,239,223);
+        font-size: 14px;
+        color: rgb(58,115,43);
+	}
+
+/* Styles table data and links */
+	th.right {
+		text-align: right;
+	}
+
+	td {
+			padding: 1%;
+	}
+
+	td.right {
+		text-align: right;
+	}
+
+	td.center {
+		text-align: center;
+	}
+
+	a {
+		color:rgb(36,95,12);
+	}
+	a:link {
+		text-decoration: none;
+		
+	}
+	a:hover {
+		color: rgb(40,46,255);
+		
+	}
+
+/* Zebra striping */
+	tr:nth-of-type(odd) { 
+		background: rgb(175,235,176);
+	}
+	
+	th { 
+		background: rgb(139,226,141); 
+		color: rgb(38,74,28); 
+		font-weight: normal;
+		font-size: 16px;
+		font-family:'Bitter', serif;
+		padding: 1em;
+		text-align: center;
+	}
+
+
+	
+	@media only screen and (max-width: 760px),
+	(min-device-width: 768px) and (max-device-width: 1024px)  {
+		
+		/* Force table to not be like tables anymore */
+		table, thead, tbody, th, td, tr { 
+			display: block; 
+			font-size: 14px;
+		}
+
+		/* Hide table headers (but not display: none;, for accessibility) */
+		th { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	
+		tr { 
+			border: .5px solid rgb(38,74,28); 
+		}
+		
+		td { 
+			/* Behave  like a "row" */
+			border: none;
+			border-bottom: 1px solid rgb(38,74,28); 
+			position: relative;
+			padding-left: 40%; 
+		}
+		
+
+		td:before { 
+			/* Now like a table header */
+			position: absolute;
+			text-align: left;
+			/* Top/left values mimic padding */
+			left: 6px;
+			color: rgb(38,74,28); 
+		}
+
+		/* Realigns data for table realignment */
+		td.right {
+			text-align:left;
+		}		
+		
+		td.center {
+			text-align:left;
+		}
+	
+
+	/* Underlines links in table realignment */
+
+		a {
+			color:rgb(36,95,12);
+		}
+		a:link {
+			text-decoration: underline;
+			
+		}
+		a:hover {
+			color: rgb(40,46,255);
+			
+		}
+		
+
+		/* Adjusts navigation bar for realignment*/
+		ul.navbar {
+			list-style-type: none;
+		}
+		
+		li.bar {
+			float: right;
+			text-transform: uppercase;
+			text-align: center;
+			padding: 3px;
+
+		}
+
+		a.bar {
+			width: 200px;
+			text-decoration: none;
+		}
+		
+		h3 {
+			padding: 1%;
+		}
+
+		/* Creates new data to use as headers in realignment */
+		td:nth-of-type(1):before { content: "Region"; }
+		td:nth-of-type(2):before { content: "Company"; }
+		td:nth-of-type(3):before { content: "City"; }
+		td:nth-of-type(4):before { content: "Industry"; }
+		td:nth-of-type(5):before { content: "Position"; }
+		td:nth-of-type(6):before { content: "Tool"; }
+		td:nth-of-type(7):before { content: "Career Link"; }
+	}
+}
+	
